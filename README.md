@@ -1,4 +1,4 @@
-<p align="center"><img src="[https://raw.githubusercontent.com/RIADBELU/Regens-AI/refs/heads/main/logo.png]" width="180"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/RIADBELU/Regens-AI/refs/heads/main/logo.png" width="180"></p>
 <h1 align="center">Regen's AI</h1>
 <p align="center">
   An AI companion that'll take your imagination to the next level..
