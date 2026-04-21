@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/RIADBELU/Regens-AI/refs/heads/main/logo.png" width="180"></p>
 <h1 align="center">Regen's AI</h1>
 <p align="center">
-  An AI companion that'll take your imagination to the next level..
+  An AI companion that'll take your imagination and knowledge to the next level..
   <br><br>
    <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
   <a href="https://github.com/RIADBELU/Dell-Latitude-3190-Hackintosh"><img src="https://img.shields.io/github/languages/top/RIADBELU/Regens-AI"></a>
@@ -96,7 +96,7 @@ Join creators, developers, and innovators in our vibrant community forum. Share 
 
 ### 🔐 Login & Security
 - Full authentication system with persistent sessions
-- Sign in via: Email, Phone, Google, Meta, Apple, Samsung, or Guest
+- Sign in via: Email, Phone, Google, Apple (info website only), or Guest (info website only)
 - **Two-Factor Authentication** (TOTP-based with backup codes)
 - Real-time login monitoring with IP geolocation & device detection
 - AI-powered suspicious activity detection
