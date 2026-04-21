@@ -21,6 +21,7 @@
 > - As for children ranged under 13, these services are not intended to be used by children under 13
 >
 > We are moving step-by-step to maintain saftey within our guardrails and keep children and other Regen's AI users safe. Stay safe dear users!
+>
 > -Sincerely, The Regen's Inc. Team
 
 ---
