@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/RIADBELU/Dell-Latitude-3190-Hackintosh/refs/heads/main/src/github%20assets/Screenshot%202025-07-11%20182759.jpg" width="180"></p>
+<p align="center"><img src="[https://regens-ai-info.lovable.app/assets/logo-C7fMuHRY.png]" width="180"></p>
 <h1 align="center">Regen's AI</h1>
 <p align="center">
   An AI companion that'll take your imagination to the next level..
