@@ -145,7 +145,7 @@ Join creators, developers, and innovators in our vibrant community forum. Share 
 | Local AI (for upconing offline mode) | Google Gemma |
 | Translation | None (coming soon) |
 | Web Search | Powered by: Regen's AI 1.0 |
-| Subscriptions | Handeled by: Stripe |
+| Subscriptions | Handled by: Stripe |
 
 ---
 
