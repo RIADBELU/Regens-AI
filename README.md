@@ -21,11 +21,9 @@
 > - If you're under 13, this app isn't meant for you just yet
 >
 > We're doing our best to build something safe and enjoyable for everyone. Thanks for respecting that.
->
-> , The Regen's Inc. Team
 
 > [!NOTE]
-> We will admit, Regen's AI is in active development. So basically what that means in simple terms is: New features, fixes, and improvements drop regularly, so what does this mean for you? Well, make sure you're always on the latest version, in order to get the latest security and feature updates, drops regularly each month.
+> We will admit, Regen's AI is in active development. So basically what that means in simple terms is: New features, fixes, and improvements drop regularly, so what do you have to do about this? Well, make sure you're always on the latest version, in order to get the latest security and feature updates, drops regularly each month.
 
 > [!TIP]
 > Hold on a second.. Do we sense that you're not in the official Discord server? If you did join, that's fine. And if not, then, join our [official Discord server](https://discord.gg/yyU6E7Gym6), if you really want to stay in the loop on new releases, share feedback, and connect with the lively community, solely built on compassion and peace.
