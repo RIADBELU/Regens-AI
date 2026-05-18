@@ -123,7 +123,7 @@ This isn't just software , there's a community behind it. A forum, a blog, peopl
 
 ## 💎 Regen's AI Plus
 
-> *Our premium tier , for people who want the full experience*
+*Our premium tier , for people who want the full experience*
 
 | Feature | Free | Plus |
 |---|:---:|:---:|
