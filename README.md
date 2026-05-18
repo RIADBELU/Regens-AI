@@ -11,8 +11,6 @@
   <a href="https://discord.gg/yyU6E7Gym6" title="Discord"><img alt="Discord" src="https://img.shields.io/discord/1353495377768218654?label=Discord&cacheSeconds=600&style=flat-square"></a>
 </p>
 
-<div align="center">
-
 > [!WARNING]
 > While Regen's AI is a powerful and fun tool for everyday use, there are a few ground rules to keep things safe for everyone:
 > - Don't harass the AI , treat it with basic respect
@@ -33,11 +31,7 @@
 > [!IMPORTANT]
 > Beofre you may download the app, Please keep in mind that most features require an internet connection, especially the Web App, no internet, no app. But don't you worry just yet, Offline Mode is coming soon exclusively to **Regen's AI Plus** subscribers and to those who installed the native desktop and mobile (coming soon) applications. If I were you, I'd keep these in mind..
 
-</div>
-
 ---
-
-<div align="center">
   
 # 🤖 What Is Regen's AI?
 
@@ -49,11 +43,7 @@
 **Regen's AI** is a personal AI assistant and platform built for people who actually want to get things done.
 Started in **July 2025** by **Riad Kabashi**, the goal has always been simple , make powerful AI feel approachable and useful for everyone.
 
-</div>
-
 ---
-
-<div align="center">
 
 ## ✨ Overview
 
@@ -61,11 +51,7 @@ Regen's AI isn't just another chatbot. It's a full platform , with its own AI mo
 
 Whether you're a developer, a student, a creative, or just someone who wants a smart assistant on their desktop , this was built with you in mind. Clean interface, fast responses, and no unnecessary fluff.
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 🏛️ What It's Built On
 
@@ -78,11 +64,7 @@ Slow AI is frustrating. We've put a lot of work into making sure responses come 
 ### 🌍 A Real Community
 This isn't just software , there's a community behind it. A forum, a blog, people sharing ideas and helping each other out. That side of it matters to us.
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 🚀 Features
 
@@ -135,8 +117,6 @@ This isn't just software , there's a community behind it. A forum, a blog, peopl
 • Email alerts for security events, account activity, and newsletter updates
 • Fully customizable , you decide what you want to hear about
 
-</div>
-
 ---
 
 <div align="center">
@@ -182,8 +162,6 @@ This isn't just software , there's a community behind it. A forum, a blog, peopl
 
 ---
 
-<div align="center">
-
 ## 🗺️ Roadmap
 
 Here's where things stand and what's coming next:
@@ -204,11 +182,7 @@ Here's where things stand and what's coming next:
 • [ ] Android release
 • [x] AI Personas *(May 15, 2026)*
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 📦 Installation
 
@@ -217,22 +191,16 @@ Here's where things stand and what's coming next:
 
 Grab the latest version from the [Releases](../../releases) page and run the installer , it's straightforward.
 
-> Works on **Windows** right now. **macOS** support is being worked on, and a **Web App** is also available.
+> Works on **Windows** right now. **macOS + Linux** support is being worked on, and a **Web App** is also available.
 > You'll need an internet connection for most features. Offline Mode is coming to Regen's AI Plus soon.
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 💬 Why We're Building This
 
 > *"We want AI to be something anyone can use , not just people with a technical background or a big budget. The goal is to build something genuinely useful, genuinely accessible, and genuinely worth your time."*
 >
 > - The Regen's AI Team
-
-</div>
 
 ---
 
