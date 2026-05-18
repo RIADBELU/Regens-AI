@@ -176,7 +176,7 @@ Here's where things stand and what's coming next:
 • [ ] Offline Mode *(Regen's AI Plus)*
 • [ ] macOS release
 • [ ] Android release
-• [ ] AI Personas *(May 25, 2026)*
+• [x] AI Personas *(May 25, 2026)*
 
 ---
 
