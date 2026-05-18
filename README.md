@@ -166,21 +166,21 @@ This isn't just software , there's a community behind it. A forum, a blog, peopl
 
 Here's where things stand and what's coming next:
 
-• [x] Core chat UI with animations
-• [x] Voice input & output
-• [x] Image generation *(Regen's Nordic 2.0)*
-• [x] Login system & 2FA security
-• [x] Community forum
-• [x] Blog platform
-• [x] Memory & personalization
-• [ ] Translation *(52 languages)*
-• [ ] Subscription system *(Regen's AI Plus)*
-• [ ] AI Video Generation *(Regen's Voxel 1.2)*
-• [ ] Plugin system
-• [ ] Offline Mode *(Regen's AI Plus)*
-• [ ] macOS release
-• [ ] Android release
-• [x] AI Personas *(May 15, 2026)*
+- [x] Core chat UI with animations
+- [x] Voice input & output
+- [x] Image generation *(Regen's Nordic 2.0)*
+- [x] Login system & 2FA security
+- [x] Community forum
+- [x] Blog platform
+- [x] Memory & personalization
+- [ ] Translation *(52 languages)*
+- [ ] Subscription system *(Regen's AI Plus)*
+- [ ] AI Video Generation *(Regen's Voxel 1.2)*
+- [ ] Plugin system
+- [ ] Offline Mode *(Regen's AI Plus)*
+- [ ] macOS release
+- [ ] Android release
+- [x] AI Personas *(May 15, 2026)*
 
 ---
 
@@ -189,9 +189,9 @@ Here's where things stand and what's coming next:
 > [!CAUTION]
 > Only download Regen's AI from the official [Releases](../../releases) page. We are not responsible for any issues caused by third-party or modified versions of the app.
 
-Grab the latest version from the [Releases](../../releases) page and run the installer , it's straightforward.
+Grab the latest version from the [Releases](../../releases) page and run the installer, it's straightforward.
 
-> Works on **Windows** right now. **macOS + Linux** support is being worked on, and a **Web App** is also available.
+> Works on **Windows** right now. **macOS + Linux** support is being worked on, and the **Web App** is also available.
 > You'll need an internet connection for most features. Offline Mode is coming to Regen's AI Plus soon.
 
 ---
