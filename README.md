@@ -163,19 +163,33 @@ This isn't just software , there's a community behind it. A forum, a blog, peopl
 Here's where things stand and what's coming next:
 
 • [x] Core chat UI with animations
+
 • [x] Voice input & output
+
 • [x] Image generation *(Regen's Nordic 2.0)*
+
 • [x] Login system & 2FA security
+
 • [x] Community forum
+
 • [x] Blog platform
+
 • [x] Memory & personalization
+
 • [ ] Translation *(52 languages)*
+
 • [ ] Subscription system *(Regen's AI Plus)*
+
 • [ ] AI Video Generation *(Regen's Voxel 1.2)*
+
 • [ ] Plugin system
+
 • [ ] Offline Mode *(Regen's AI Plus)*
+
 • [ ] macOS release
+
 • [ ] Android release
+
 • [x] AI Personas *(May 25, 2026)*
 
 ---
