@@ -148,13 +148,13 @@ This isn't just software , there's a community behind it. A forum, a blog, peopl
 
 | Layer | Technology |
 |---|---|
-| UI Framework | HTML, CSS, JavaScript |
+| UI Framework | HTML, CSS, JavaScript, TypeScript |
 | Chat Model | Regen's AI 1.0 *(proprietary)* |
 | Image Model | Regen's Nordic 2.0 *(proprietary)* |
-| Video Model | Regen's Voxel 1.2 *(proprietary)* |
+| Video Model | Regen's Voxel 1.2 *(proprietary, coming soon)* |
 | Local AI *(offline mode , coming soon)* | Google Gemma |
 | Web Search | Regen's AI 1.0 |
-| Subscriptions | Stripe |
+| Subscription Managment | Stripe |
 
 ---
 
